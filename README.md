@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :sparkles: I'm currently working on something cool!
-- :book: :computer: I'm currently learning deepLearning, PHP, Oracle Cloud in Oracle Education, Data Month in Microsoft (python/data scientist), React/JavaScript/CSS/HTML in Alura Latam.
-- :question: You can ask me about I'm learning right now
+Computer engineering student, looking for an opportunity to gain experience in software development using the programming languages ​​JavaScript, Python, Java, PHP, etc. and security in computer networks, always working as a team, cooperating with everyone and supporting in the least possible way, with great satisfaction in teaching and learning.
+
+- :sparkles: :sparkles: I'm currently working on something cool!
+- :books: :computer: I'm currently learning deepLearning, PHP, Oracle Cloud in Oracle Education, Data Month in Microsoft (python/data scientist), React/JavaScript/CSS/HTML in Alura Latam.
+- :question: :envelope: You can ask me about I'm learning right now
