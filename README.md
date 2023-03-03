@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :sparkles: I'm currently working on something cool!
+- :book: :computer: I'm currently learning deepLearning, PHP, Oracle Cloud in Oracle Education, Data Month in Microsoft (python/data scientist), React/JavaScript/CSS/HTML in Alura Latam.
+- :question: You can ask me about I'm learning right now
